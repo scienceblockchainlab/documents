@@ -1,2 +1,2 @@
 # documents
-manifesto, whitepapers etc
+manifesto
